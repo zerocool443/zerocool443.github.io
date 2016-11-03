@@ -1,6 +1,5 @@
-P {
-
-	color: red;
-	text-align: center;
-	animation: all;
+div {
+  background-color: azure;
+  border: 12px solid aquamarine;
+  padding: 10px;
 }
