@@ -1,0 +1,73 @@
+.top{
+	text-align: center;
+	color: white;
+	background-color: #454045;
+	height: 50px;
+	width: 1200px;
+	border-style: solid ;
+	border-width: 5px;
+	margin-left: 80px;
+	border-color: grey;
+}
+.main {
+
+	background-color: lightblue;
+	margin-top: 10px;
+	height: 500px;
+	width: 1200px;
+	margin-left: 80px;
+	border-style: solid ;
+	border-width: 5px;
+
+}	
+
+.items {
+	background-color: lightgreen;
+	
+	height: 400px;
+	width : 400px;
+	float:left;
+	margin-left: 200px;
+	padding: 20px;
+	margin-top: 20px;
+	border-style: solid ;
+	border-width: 5px;
+
+
+}
+
+
+.bill {
+	background-color: lightpink;
+	margin-left: 200px;
+	margin-top: 150px;
+	height: 200px;
+	width : 200px;
+	float:left;
+	padding:20px;
+	border-style: solid ;
+	border-width: 5px;
+}
+
+
+h1 {
+
+	color: black;
+}
+
+
+.header {
+
+	text-align: center;
+}
+
+.item-desc {
+	color:black;
+	height: 20px;
+	width: 600px;
+}
+
+.footer{
+	text-align: center;
+
+}
