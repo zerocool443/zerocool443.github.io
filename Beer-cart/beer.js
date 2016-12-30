@@ -12,7 +12,7 @@ myBeer.controller('mainController',function($scope){
 			desc:"The famous Budweiser beer. Our exclusive Beechwood Aging produces a taste, smoothness and a drinkability you will find in no other beer at any price.",
 			alcoholcontenet:"5.0%",
 			price:125,
-			imageurl:'images/budweiser.jpg',
+			imageurl:'/images/budweiser.jpg',
 			quantity:0
 		},
 		{
