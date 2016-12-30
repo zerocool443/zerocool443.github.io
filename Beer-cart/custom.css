@@ -1,7 +1,6 @@
 html{
 	color: #b3daff;
 	font-family: Gill Sans / Gill Sans MT, sans-serif;
-//	background-color: #e6ffff;
 	text-align: center;
 }
 
@@ -47,20 +46,23 @@ border-radius: 35px;
 }
 
 .item-details{
-height: 200px;
-width : 600px;
+height: 300px;
+width : 500px;
 margin-left:250px;
+margin-right:30px;
 font-size: 22px;
 font-family: fantasy;
+background-color: #ecffb3;
+
 }
 
 
 
 .checkout{
-height: 700px;
-width: 550px;
+height: 3560px;
+width: 500px;
 background-color: red;
-margin-left: 1100px; 
+margin-left: 850px; 
 background-color: #ddffcc;
 border-radius: 35px;
   	box-shadow:
