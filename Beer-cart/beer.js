@@ -68,6 +68,5 @@ myBeer.controller('mainController',function($scope){
 
 	$scope.addtocart=function(item){
 		$scope.cart.push(item);
-	}
-	}
+	};
 });
